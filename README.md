@@ -6,14 +6,13 @@ I built this mainly to practice working with Java GUI and some basic game logic.
 
 ## What I Learned
 
-This project was an excellent opportunity to practice:
+This project was created to practice:
 
-- GUI development using Java Swing.
-- Implementing game logic in Java.
-- Writing clean, modular code.
-- Applying object-oriented principles.
+- **GUI development with Java Swing**: I built a simple yet functional graphical user interface for the card game.
+- **Game logic implementation in Java**: Designing and coding the logic for the game's rules, score calculation, and the flow of each round.
+- **Clean and modular code structure**: I focused on keeping the code organized and readable by following object-oriented programming principles.
+- **Applying object-oriented principles**: The project provided an opportunity to implement core OOP concepts such as classes, inheritance, and encapsulation in a practical context.
 
-Through this project, I gained strong Java fundamentals and experience in designing a user-friendly GUI.
 
 
 ##  How the Game Works
