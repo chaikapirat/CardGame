@@ -4,6 +4,18 @@ This is a small card game project I made using Java and Swing. It's a simple two
 
 I built this mainly to practice working with Java GUI and some basic game logic.
 
+## What I Learned
+
+This project was an excellent opportunity to practice:
+
+- GUI development using Java Swing.
+- Implementing game logic in Java.
+- Writing clean, modular code.
+- Applying object-oriented principles.
+
+Through this project, I gained strong Java fundamentals and experience in designing a user-friendly GUI.
+
+
 ##  How the Game Works
 
 - 2 players take turns playing.
